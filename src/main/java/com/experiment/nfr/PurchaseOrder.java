@@ -1,4 +1,4 @@
-package com.expirement.nfr;
+package com.experiment.nfr;
 
 
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.expirement.nfr;
+package com.experiment.nfr;
 
 import lombok.extern.log4j.Log4j2;
 import org.apache.commons.dbcp2.BasicDataSource;
@@ -177,6 +177,7 @@ public class NonFunctionalResourceExperiment {
         basicDataSource.setDriverClassName("org.h2.Driver");
         basicDataSource.setUsername("sa");
         basicDataSource.setPassword("");
+        basicDataSource.setMaxTotal(10);
         return basicDataSource;
     }
 }

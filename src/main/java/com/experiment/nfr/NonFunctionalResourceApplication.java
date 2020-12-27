@@ -1,4 +1,4 @@
-package com.expirement.nfr;
+package com.experiment.nfr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
