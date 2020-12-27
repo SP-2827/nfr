@@ -18,7 +18,7 @@ Procedures:
 
 ### File System:
 
-System took **5.6937485**** seconds** to write 10000 serialized objects into File Systems.
+System took **5.6937485 seconds** to write 10000 serialized objects into File Systems.
 
 ### IN-Memory (H2-DB):
 
@@ -28,11 +28,11 @@ System took **0.814038 seconds** to write 10000 objects into DB.
 
 ### File System:
 
-System took **0.2052302**** seconds** to write 10000 serialized objects into File Systems.
+System took **0.2052302 seconds** to write 10000 serialized objects into File Systems.
 
 ### IN-Memory (H2-DB):
 
-System took **0.0654654**** seconds** to write 10000 objects into DB.
+System took **0.0654654 seconds** to write 10000 objects into DB.
 
 ## Conclusion:
 
