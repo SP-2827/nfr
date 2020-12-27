@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 public class NonFunctionalResourceExperiment {
 
     public static final int ORDER_LIMIT = 10000;
-    public static final int THREADS = 3;
+    public static final int THREADS = 2;
     private final BasicDataSource dataSource = getConnection();
 
     public void runExperiment() {
